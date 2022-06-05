@@ -1,0 +1,15 @@
+1.Jelaskan update (pembaharuan) terbaru apa saja yang ditawarkan Flutter?
+
+jawab : 
+flutter 3 dapat menargetkan 6 platfrom berbeda secara langsung yaitu IOS dan android, mobile dan dekstop web browser, windows, macOS dan linux. di dekstop dan mobile, flutter engine dan dart toolchain mengompile kode rilis anda ke ARM atau intel machine intructions, lalu di web, kode anda dikompilasi ke javascript yang dioptimalkan menggunakan standar web seperti webGL, jadi flutter dapat berjalan di platfrom apasaja dan tampilannya lebih responsif. 
+
+2.Berikan contoh dari pembaharuan-pembaharuan tersebut!
+
+jawab :
+fitur baru di flutter 3 yaitu :
+a. flutter macOS dan linux sudah stable (versi macOS sudah support platfrom menu, aksesbilitas di semua dekstop sudah adaptive, support apple silicon/M1)
+b. support foldable phone
+c. image decoding web (saat meload web yang banyak gambarnya performanya 2x lebih cepat dari sebelumnya)
+d. flutter casual game toolkit
+
+3.Masuk ke halaman Learning Lab dengan memilih menu LearningLab. kemudian pilih salah satu codelabs Flutter yang Anda ingin pelajari. Cobalah ikuti codelabs tersebut. Simpan kodenya di GitHub dan screenshot aplikasi yang Anda hasilkan.
